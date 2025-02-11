@@ -1,27 +1,23 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"FlexiCurve by RED_SIM",
+    "id":"red.sim.flexicurve",
+    "url":"https://redsim.github.io/flexicurve/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"business@sim.red",
+        "name":"RED_SIM",
+        "url":"https://sim.red"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"A free open-source Unity asset for procedural generating curve-based meshes, such as fairy lights, garlands, wires and more. This asset is perfect to decorate scenes without going to Blender or any other 3rd party software.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/REDSIM/flexicurve/",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"red.sim.flexicurve",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/REDSIM/flexicurve/releases/download/Release/FlexiCurve_by_RED_SIM_v.1.1.2.zip"
             ]
         }
     ]
