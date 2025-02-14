@@ -3,7 +3,7 @@
     "id":"red.sim.flexicurve",
     "url":"https://redsim.github.io/vpmlisting/index.json",
     "author":{
-        "email":"Join our discord server for help ",
+        "email":"Join our discord server for help",
         "name":"RED_SIM",
         "url":"https://discord.com/invite/TCRAUBs"
     },
@@ -18,7 +18,8 @@
             "name":"red.sim.flexicurve",
             "releases":[
                 "https://github.com/REDSIM/flexicurve/releases/download/v.1.1.2/FlexiCurve_by_RED_SIM_v.1.1.2.zip",
-                "https://github.com/REDSIM/flexicurve/releases/download/v.1.1.3/FlexiCurve_by_RED_SIM_v.1.1.3.zip"
+                "https://github.com/REDSIM/flexicurve/releases/download/v.1.1.3/FlexiCurve_by_RED_SIM_v.1.1.3.zip",
+                "https://github.com/REDSIM/flexicurve/releases/download/v.1.1.4/FlexiCurve_by_RED_SIM_v.1.1.4.zip"
             ]
         }
     ]
