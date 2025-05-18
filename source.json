@@ -26,7 +26,8 @@
             "name":"red.sim.lightvolumes",
             "releases":[
                 "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.0.5.1/VRCLightVolumes_Beta_v.0.5.1.zip",
-                "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.0.6.0/VRCLightVolumes_Beta_v.0.6.0.zip"
+                "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.0.6.0/VRCLightVolumes_Beta_v.0.6.0.zip",
+                "https://github.com/REDSIM/VRCLightVolumes/releases/download/v.0.7.0/VRCLightVolumes_Beta_v.0.7.0.zip"
             ]
         }
     ]
