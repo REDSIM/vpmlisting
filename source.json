@@ -58,7 +58,8 @@
         {
             "name":"red.sim.particlevolumes",
             "releases":[
-                "https://github.com/REDSIM/GPUParticleVolumes/releases/download/v.1.0.0/GPUParticleVolumes_v.1.0.0.zip"
+                "https://github.com/REDSIM/GPUParticleVolumes/releases/download/v.1.0.0/GPUParticleVolumes_v.1.0.0.zip",
+                "https://github.com/REDSIM/GPUParticleVolumes/releases/download/v.1.0.1/GPUParticleVolumes_v.1.0.1.zip"
             ]
         }
     ]
